@@ -1,5 +1,5 @@
 body {
-    background-color:darkgray;
+    background-color:#FFC0CB;
     text-align:center;
   }
   h1{
@@ -9,7 +9,7 @@ body {
   p {
     font-size:30px;
     letter-spacing:10px;
-    color:maroon;
+    color:#800000;
   }
   .bilder {
     display: block;
