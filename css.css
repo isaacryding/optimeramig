@@ -9,6 +9,4 @@ body{
      div.bilder{
          display:flex;
          justify-content: center;
-         width:683px;
-         height:1024px;
      }
